@@ -1,9 +1,1 @@
-# DIGRID app-ads.txt
-# AdMob/Google AdSense authorized sellers declaration
-# IAB Tech Lab spec: https://iabtechlab.com/wp-content/uploads/2019/03/app-ads.txt-v1.0-final-.pdf
-#
-# AdMob'dan aldigin snippet'i bu dosyanin altina yapistir.
-# Ornek format (AdMob'da gosterilen tam satiri kullan, asagidaki sadece ornektir):
-# google.com, pub-4737874615623175, DIRECT, f08c47fec0942fa0
-#
-# Yapistirinca yorumlari (# ile baslayan satirlari) silebilirsin, opsiyonel.
+google.com, pub-4737874615623175, DIRECT, f08c47fec0942fa0
